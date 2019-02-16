@@ -201,7 +201,7 @@ header{
      
     color:#777;
     min-height: 60px;
-    border-bottom: #ddd 2px solid;
+    border-bottom: #ddd 3px solid;
     padding-right: 150px;
     background-color: #fff;
 }
@@ -237,11 +237,11 @@ header #main-header{
 
   footer{
     
-    padding:5px;
-    margin-top:200px;
-    background-color:#666;
-    border: #4aaaa5 5px;
-    text-align: none;
+    color: #ddd;
+    background-color: #666;
+    text-align: center;
+    overflow: hidden;
+    border-top:#4aaaa5 5px solid;
   }
 
   h4{
