@@ -240,13 +240,14 @@ header #main-header{
     padding:5px;
     margin-top:200px;
     background-color:#666;
-    border-top: #4aaaa5 5px;
+    border: #4aaaa5 5px;
     text-align: none;
   }
 
   h4{
     text-align: center;
     color: #777;
+    
   }
 
 /* Media Queries (makes website suitable for mobile devices) */
