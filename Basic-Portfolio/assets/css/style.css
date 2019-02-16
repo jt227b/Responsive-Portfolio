@@ -241,6 +241,12 @@ header #main-header{
     margin-top:200px;
     background-color:#666;
     border-top: #4aaaa5 5px;
+    text-align: none;
+  }
+
+  h4{
+    text-align: center;
+    color: #777;
   }
 
 /* Media Queries (makes website suitable for mobile devices) */
@@ -256,8 +262,7 @@ header,   header li, header #main-header, header #main-header h1, header nav{
 }
 
 header #main-header h1{
-  padding-right: 215px;
-  padding-left: 215px;
+
   padding-top: 20px;
   padding-bottom: 20px;
   margin: 0px;
@@ -275,6 +280,15 @@ header nav{
   padding-bottom: 10px;
   word-spacing: 15px;
 }
+
+section{
+  margin: 40px;
+}
+
+img{
+  width: 100%;
+}
+
 
 
 
